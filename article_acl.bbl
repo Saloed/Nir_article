@@ -1,0 +1,201 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Bengio \bgroup et al\mbox.\egroup
+  }{2006}]{laywise}
+Bengio, Y.; Lamblin, P.; Popovici, D.; and Larochelle, H.
+\newblock 2006.
+\newblock Greedy layer-wise training of deep networks.
+\newblock In {\em NIPS}.
+
+\bibitem[\protect\citeauthoryear{Bengio, Courville, and Vincent}{2013}]{RL}
+Bengio, Y.; Courville, A.; and Vincent, P.
+\newblock 2013.
+\newblock Representation learning: A review and new perspectives.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.} 35(8):1798--1828.
+
+\bibitem[\protect\citeauthoryear{Bengio, Simard, and
+  Frasconi}{1994}]{rnndifficult}
+Bengio, Y.; Simard, P.; and Frasconi, P.
+\newblock 1994.
+\newblock Learning long-term dependencies with gradient descent is difficult.
+\newblock {\em IEEE Trans. Neural Networks} 5(2):157--166.
+
+\bibitem[\protect\citeauthoryear{Chilowicz, Duris, and Roussel}{2009}]{sim}
+Chilowicz, M.; Duris, E.; and Roussel, G.
+\newblock 2009.
+\newblock Syntax tree fingerprinting for source code similarity detection.
+\newblock In {\em Proc. IEEE Int. Conf. Program Comprehension},  243--247.
+
+\bibitem[\protect\citeauthoryear{Collobert and Weston}{2008}]{unified}
+Collobert, R., and Weston, J.
+\newblock 2008.
+\newblock A unified architecture for natural language processing: Deep neural
+  networks with multitask learning.
+\newblock In {\em ICML}.
+
+\bibitem[\protect\citeauthoryear{Dahl, Mohamed, and Hinton}{2010}]{speech}
+Dahl, G.; Mohamed, A.; and Hinton, G.
+\newblock 2010.
+\newblock Phone recognition with the mean-covariance restricted {Boltzmann}
+  machine.
+\newblock In {\em NIPS}.
+
+\bibitem[\protect\citeauthoryear{Dietz \bgroup et al\mbox.\egroup }{2009}]{AI1}
+Dietz, L.; Dallmeier, V.; Zeller, A.; and Scheffer, T.
+\newblock 2009.
+\newblock Localizing bugs in program executions with graphical models.
+\newblock In {\em NIPS}.
+
+\bibitem[\protect\citeauthoryear{Duvenaud \bgroup et al\mbox.\egroup
+  }{2015}]{gbcnn}
+Duvenaud, D.; Maclaurin, D.; Aguilera-Iparraguirre, J.; G{\'o}mez-Bombarelli,
+  R.; Hirzel, T.; Aspuru-Guzik, A.; and Adams, R.
+\newblock 2015.
+\newblock Convolutional networks on graphs for learning molecular fingerprints.
+\newblock {\em arXiv preprint arXiv:1509.09292}.
+
+\bibitem[\protect\citeauthoryear{Ghabi and Egyed}{2012}]{requirement}
+Ghabi, A., and Egyed, A.
+\newblock 2012.
+\newblock Code patterns for automatically validating requirements-to-code
+  traces.
+\newblock In {\em ASE},  200--209.
+
+\bibitem[\protect\citeauthoryear{Hao \bgroup et al\mbox.\egroup
+  }{2013}]{zhanglu}
+Hao, D.; Lan, T.; Zhang, H.; Guo, C.; and Zhang, L.
+\newblock 2013.
+\newblock Is this a bug or an obsolete test?
+\newblock In {\em Proc. ECOOP},  602--628.
+
+\bibitem[\protect\citeauthoryear{Hermann and Blunsom}{2014}]{multilingual}
+Hermann, K., and Blunsom, P.
+\newblock 2014.
+\newblock Multilingual models for compositional distributed semantics.
+\newblock In {\em ACL},  58--68.
+
+\bibitem[\protect\citeauthoryear{Hindle \bgroup et al\mbox.\egroup
+  }{2012}]{naturalness}
+Hindle, A.; Barr, E.; Su, Z.; Gabel, M.; and Devanbu, P.
+\newblock 2012.
+\newblock On the naturalness of software.
+\newblock In {\em ICSE},  837--847.
+
+\bibitem[\protect\citeauthoryear{Hinton, Osindero, and Teh}{2006}]{fast}
+Hinton, G.; Osindero, S.; and Teh, Y.
+\newblock 2006.
+\newblock A fast learning algorithm for deep belief nets.
+\newblock {\em Neural Computation} 18(7):1527--1554.
+
+\bibitem[\protect\citeauthoryear{Kalchbrenner, Grefenstette, and
+  Blunsom}{2014}]{CNNNLP}
+Kalchbrenner, N.; Grefenstette, E.; and Blunsom, P.
+\newblock 2014.
+\newblock A convolutional neural network for modelling sentences.
+\newblock In {\em ACL},  655--665.
+
+\bibitem[\protect\citeauthoryear{Krizhevsky, Sutskever, and
+  Hinton}{2012}]{imagenet}
+Krizhevsky, A.; Sutskever, I.; and Hinton, G.
+\newblock 2012.
+\newblock {ImageNet} classification with deep convolutional neural networks.
+\newblock In {\em NIPS}.
+
+\bibitem[\protect\citeauthoryear{LeCun \bgroup et al\mbox.\egroup
+  }{1995}]{lenet}
+LeCun, Y.; Jackel, L.; Bottou, L.; Brunot, A.; Cortes, C.; Denker, J.; Drucker,
+  H.; Guyon, I.; Muller, U.; and Sackinger, E.
+\newblock 1995.
+\newblock Comparison of learning algorithms for handwritten digit recognition.
+\newblock In {\em Proc. Int. Conf. Artificial Neural Networks}.
+
+\bibitem[\protect\citeauthoryear{Mikolov \bgroup et al\mbox.\egroup
+  }{2013}]{word2vec}
+Mikolov, T.; Sutskever, I.; Chen, K.; Corrado, G.; and Dean, J.
+\newblock 2013.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em NIPS}.
+
+\bibitem[\protect\citeauthoryear{Mou \bgroup et al\mbox.\egroup
+  }{2015}]{tbcnn_sent}
+Mou, L.; Peng, H.; Li, G.; Xu, Y.; Zhang, L.; and Jin, Z.
+\newblock 2015.
+\newblock Discriminating neural sentence modeling by tree-based convolution.
+\newblock In {\em EMNLP},  2315--2325.
+
+\bibitem[\protect\citeauthoryear{Pane, Ratanamahatana, and Myers}{2001}]{PLNL}
+Pane, J.; Ratanamahatana, C.; and Myers, B.
+\newblock 2001.
+\newblock Studying the language and structure in non-programmers' solutions to
+  programming problems.
+\newblock {\em Int. J. Human-Computer Studies} 54(2):237--264.
+
+\bibitem[\protect\citeauthoryear{Peng \bgroup et al\mbox.\egroup
+  }{2015}]{building}
+Peng, H.; Mou, L.; Li, G.; Liu, Y.; Zhang, L.; and Jin, Z.
+\newblock 2015.
+\newblock Building program vector representations for deep learning.
+\newblock In {\em Proc. 8th Int. Conf. Knowledge Science, Engineering and
+  Management},  547--553.
+
+\bibitem[\protect\citeauthoryear{Piech \bgroup et al\mbox.\egroup
+  }{2015}]{hoare}
+Piech, C.; Huang, J.; Nguyen, A.; Phulsuksombati, M.; Sahami, M.; and Guibas,
+  L.
+\newblock 2015.
+\newblock Learning program embeddings to propagate feedback on student code.
+\newblock In {\em ICML}.
+
+\bibitem[\protect\citeauthoryear{Pinker}{1994}]{instinct}
+Pinker, S.
+\newblock 1994.
+\newblock {\em The Language Instinct: The New Science of Language and Mind}.
+\newblock Pengiun Press.
+
+\bibitem[\protect\citeauthoryear{Socher \bgroup et al\mbox.\egroup
+  }{2011a}]{dynamic}
+Socher, R.; Huang, E.; Pennin, J.; Manning, C.; and Ng, A.
+\newblock 2011a.
+\newblock Dynamic pooling and unfolding recursive autoencoders for paraphrase
+  detection.
+\newblock In {\em NIPS}.
+
+\bibitem[\protect\citeauthoryear{Socher \bgroup et al\mbox.\egroup
+  }{2011b}]{RAE}
+Socher, R.; Pennington, J.; Huang, E.; Ng, A.; and Manning, C.
+\newblock 2011b.
+\newblock Semi-supervised recursive autoencoders for predicting sentiment
+  distributions.
+\newblock In {\em EMNLP},  151--161.
+
+\bibitem[\protect\citeauthoryear{Socher \bgroup et al\mbox.\egroup
+  }{2013}]{RNN}
+Socher, R.; Perelygin, A.; Wu, J.; Chuang, J.; Manning, C.; Ng, A.; and Potts,
+  C.
+\newblock 2013.
+\newblock Recursive deep models for semantic compositionality over a sentiment
+  treebank.
+\newblock In {\em EMNLP},  1631--1642.
+
+\bibitem[\protect\citeauthoryear{Socher \bgroup et al\mbox.\egroup
+  }{2014}]{grounded}
+Socher, R.; Karpathy, A.; Le, Q.; Manning, C.; and Ng, A.~Y.
+\newblock 2014.
+\newblock Grounded compositional semantics for finding and describing images
+  with sentences.
+\newblock {\em TACL} 2:207--218.
+
+\bibitem[\protect\citeauthoryear{Steidl and Gode}{2013}]{bug}
+Steidl, D., and Gode, N.
+\newblock 2013.
+\newblock Feature-based detection of bugs in clones.
+\newblock In {\em 7th Int. Workshop on Software Clones},  76--82.
+
+\bibitem[\protect\citeauthoryear{Zaremba and Sutskever}{2014}]{execute}
+Zaremba, W., and Sutskever, I.
+\newblock 2014.
+\newblock Learning to execute.
+\newblock {\em arXiv preprint arXiv:1410.4615}.
+
+\end{thebibliography}
